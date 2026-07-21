@@ -52,30 +52,6 @@ Building backend applications, REST APIs, and improving my software engineering 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
 ## 🚀 Currently Building
 
 ```
@@ -129,7 +105,7 @@ Backend authentication project:
 
 ### ⚙️ Python Automation Tools
 
-Small tools built with Python to automate tasks and improve productivity.
+Small Python tools designed to automate tasks and improve productivity.
 
 
 ---
@@ -175,28 +151,6 @@ Git/GitHub
 ```
 
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-
----
-
-<div align="center">
-
-⭐ Code • Learn • Build ⭐
-
-</div>
 ---
 
 <div align="center">
