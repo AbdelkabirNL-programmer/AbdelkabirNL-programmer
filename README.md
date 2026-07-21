@@ -4,38 +4,40 @@
 
 ### Backend Developer • Python • FastAPI
 
-Building scalable backend applications and continuously improving my software engineering skills.
+Building backend applications, REST APIs, and improving my software engineering skills.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Building+RESTful+APIs;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Building+REST+APIs;Learning+Every+Day" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🐍 Backend Developer focused on Python
-- ⚡ Currently mastering FastAPI
-- 🗄️ Learning SQLAlchemy & PostgreSQL
-- 📚 Improving Algorithms & Data Structures
-- 🔥 Building real-world backend projects
+- 🐍 Python Backend Developer
+- ⚡ Currently learning FastAPI
+- 🗄️ Working with SQLAlchemy and databases
+- 🧠 Improving Algorithms & Problem Solving
+- 🔨 Building real-world backend projects
 - 🎯 Goal: Become a Professional Backend Engineer
+
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,git,github,vscode"/>
 
 </p>
 
+
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -45,9 +47,10 @@ Building scalable backend applications and continuously improving my software en
 
 </p>
 
+
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -55,69 +58,80 @@ Building scalable backend applications and continuously improving my software en
 
 </p>
 
+
 ---
 
-# 📌 Current Focus
+## 🏗️ Current Projects
 
-```text
-✔ Python
+### 🚀 FastAPI Applications
+
+- REST API Development
+- CRUD Operations
+- Database Integration
+- API Authentication
+
+
+### 🔐 Backend Systems
+
+- User Management
+- Data Validation
+- Database Models
+- API Design
+
+
+---
+
+## 📚 Currently Learning
+
+```
+Python
 █████████████████████ 100%
 
-✔ FastAPI
+FastAPI
 ██████████████████░░░ 85%
 
-✔ SQLAlchemy
+SQLAlchemy
 ██████████████░░░░░░░ 70%
 
-✔ PostgreSQL
+PostgreSQL
 █████████████░░░░░░░░ 65%
-
-✔ Docker
-█████████░░░░░░░░░░░░ 45%
 ```
 
 ---
 
-# 🏗 Featured Projects
+## 📈 Developer Journey
 
-🚀 FastAPI REST API
-
-🚀 Authentication System
-
-🚀 CRUD API
-
-🚀 Python Automation Scripts
-
-🚀 Backend Architecture Practice
-
----
-
-# 📚 Currently Learning
-
-- Advanced FastAPI
-- Clean Architecture
-- Docker
-- Redis
-- Celery
-- Testing
-- CI/CD
+```
+Python
+   ↓
+Problem Solving
+   ↓
+FastAPI
+   ↓
+Databases
+   ↓
+Backend Architecture
+   ↓
+Professional Backend Developer
+```
 
 ---
 
-# 📫 Connect
+## 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
+
 
 ---
 
 <div align="center">
 
-### ⭐ Code • Learn • Build • Repeat ⭐
+⭐ Code • Learn • Build ⭐
 
 </div>
