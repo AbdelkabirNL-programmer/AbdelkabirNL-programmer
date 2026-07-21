@@ -7,10 +7,11 @@
 Building backend applications, REST APIs, and improving my software engineering skills.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Building+REST+APIs;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+Developer;Building+REST+APIs;Learning+Every+Day" />
 </p>
 
 </div>
+
 
 ---
 
@@ -18,9 +19,9 @@ Building backend applications, REST APIs, and improving my software engineering 
 
 - 🐍 Python Backend Developer
 - ⚡ Currently learning FastAPI
-- 🗄️ Working with SQLAlchemy and databases
-- 🧠 Improving Algorithms & Problem Solving
+- 🗄️ Working with SQLAlchemy and SQLite databases
 - 🔨 Building real-world backend projects
+- 🧠 Improving Algorithms & Problem Solving
 - 🎯 Goal: Become a Professional Backend Engineer
 
 
@@ -30,9 +31,23 @@ Building backend applications, REST APIs, and improving my software engineering 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,git,github,vscode"/>
 
 </p>
+
+
+---
+
+## 🛠️ Tools I Use
+
+- Python
+- FastAPI
+- SQLAlchemy
+- SQLite
+- Pydantic
+- Git
+- GitHub
+- VS Code
 
 
 ---
@@ -61,27 +76,86 @@ Building backend applications, REST APIs, and improving my software engineering 
 
 ---
 
-## 🏗️ Current Projects
+## 🚀 Currently Building
 
-### 🚀 FastAPI Applications
+```
+✔ REST APIs with FastAPI
 
-- REST API Development
-- CRUD Operations
-- Database Integration
-- API Authentication
+✔ CRUD Applications
 
+✔ Database Integration
 
-### 🔐 Backend Systems
+✔ Backend Architecture Practice
 
-- User Management
-- Data Validation
-- Database Models
-- API Design
+✔ Python Projects
+```
 
 
 ---
 
-## 📚 Currently Learning
+## 🏗️ Featured Projects
+
+
+### 🚀 FastAPI REST API
+
+Backend API built with:
+
+- FastAPI
+- Python
+- SQLAlchemy
+- SQLite
+
+Features:
+
+- CRUD Operations
+- Data Validation
+- Database Models
+- API Documentation
+
+
+---
+
+### 🔐 Authentication System
+
+Backend authentication project:
+
+- User Management
+- Password Security
+- API Routes
+- Database Integration
+
+
+---
+
+### ⚙️ Python Automation Tools
+
+Small tools built with Python to automate tasks and improve productivity.
+
+
+---
+
+## 📚 Learning Journey
+
+```
+Python
+   ↓
+Problem Solving
+   ↓
+FastAPI
+   ↓
+SQLAlchemy
+   ↓
+Databases
+   ↓
+Backend Development
+   ↓
+Professional Backend Engineer
+```
+
+
+---
+
+## 📈 Current Skills
 
 ```
 Python
@@ -93,27 +167,13 @@ FastAPI
 SQLAlchemy
 ██████████████░░░░░░░ 70%
 
-PostgreSQL
+SQLite
 █████████████░░░░░░░░ 65%
+
+Git/GitHub
+██████████████░░░░░░░ 70%
 ```
 
----
-
-## 📈 Developer Journey
-
-```
-Python
-   ↓
-Problem Solving
-   ↓
-FastAPI
-   ↓
-Databases
-   ↓
-Backend Architecture
-   ↓
-Professional Backend Developer
-```
 
 ---
 
@@ -122,12 +182,21 @@ Professional Backend Developer
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
+
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
 </a>
 
 </p>
 
 
+---
+
+<div align="center">
+
+⭐ Code • Learn • Build ⭐
+
+</div>
 ---
 
 <div align="center">
