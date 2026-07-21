@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdelkabir
 
-### Backend Developer • Python • FastAPI
+### Backend Developer • Python • FastAPI  ⚡
 
 Building backend applications, REST APIs, and improving my software engineering skills.
 
