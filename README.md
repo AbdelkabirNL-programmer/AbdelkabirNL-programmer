@@ -1,90 +1,123 @@
-<h1 align="center">Hi 👋, I'm Abdelkabir</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer from Morocco 🇲🇦 | Python & FastAPI Developer
-</h3>
+# 👋 Hi, I'm Abdelkabir
+
+### Backend Developer • Python • FastAPI
+
+Building scalable backend applications and continuously improving my software engineering skills.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+SQLAlchemy+%7C+PostgreSQL;Building+RESTful+APIs;Always+Learning+New+Technologies" />
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🐍 Backend Developer focused on Python
+- ⚡ Currently mastering FastAPI
+- 🗄️ Learning SQLAlchemy & PostgreSQL
+- 📚 Improving Algorithms & Data Structures
+- 🔥 Building real-world backend projects
+- 🎯 Goal: Become a Professional Backend Engineer
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-  Building APIs, learning backend architecture, and improving my problem-solving skills every day 🚀
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,sqlite,docker,git,github,linux,vscode"/>
+
 </p>
 
+---
 
-## 🚀 About Me
+# 📈 GitHub Stats
 
-- 🐍 I'm learning **Python** and backend development.
-- ⚡ Currently focusing on **FastAPI** to build real-world APIs.
-- 🗄️ Learning databases, SQLAlchemy, SQLite and API design.
-- 🧠 Practicing algorithms and problem solving.
-- 🎯 My goal is to become a professional Backend Engineer.
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🛠️ Technologies & Tools
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
-</p>
+---
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+# 📌 Current Focus
 
+```text
+✔ Python
+█████████████████████ 100%
 
-## 🔥 Currently Learning
+✔ FastAPI
+██████████████████░░░ 85%
+
+✔ SQLAlchemy
+██████████████░░░░░░░ 70%
+
+✔ PostgreSQL
+█████████████░░░░░░░░ 65%
+
+✔ Docker
+█████████░░░░░░░░░░░░ 45%
+```
+
+---
+
+# 🏗 Featured Projects
+
+🚀 FastAPI REST API
+
+🚀 Authentication System
+
+🚀 CRUD API
+
+🚀 Python Automation Scripts
+
+🚀 Backend Architecture Practice
+
+---
+
+# 📚 Currently Learning
 
 - Advanced FastAPI
-- REST API Architecture
-- Authentication & Authorization
-- SQLAlchemy ORM
-- Database Design
+- Clean Architecture
 - Docker
-- Deployment
+- Redis
+- Celery
+- Testing
+- CI/CD
 
+---
 
-## 🏗️ Projects
-
-### 📖 Quran API
-A web application built with FastAPI that displays Quran data using APIs and templates.
-
-**Technologies:**
-- FastAPI
-- Python
-- JSON
-- Jinja2
-- HTML/CSS
-
-
-### 🔐 User Management API
-
-A backend API for managing users.
-
-Features:
-- Create users
-- Store data in database
-- CRUD operations
-- API validation
-
-
-## 📊 GitHub Stats
+# 📫 Connect
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+---
 
+<div align="center">
 
-## 📚 My Learning Journey
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+</div>
