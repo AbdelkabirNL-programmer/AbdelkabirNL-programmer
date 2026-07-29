@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdelkabir
+# 👋 Hi, I'm Abdelkabir NL programer
 
 ### Backend Developer • Python • FastAPI  ⚡
 
@@ -131,23 +131,18 @@ Professional Backend Engineer
 
 ---
 
-## 📈 Current Skills
+## 📈 Skills
 
 ```
 Python
-█████████████████░░░░ 80%
-
+---------
 FastAPI
-██████████████████░░░ 85%
-
+---------
 SQLAlchemy
-██████████████░░░░░░░ 70%
-
+---------
 SQLite
-█████████████░░░░░░░░ 65%
-
+---------
 Git/GitHub
-██████████████░░░░░░░ 70%
 ```
 
 
