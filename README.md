@@ -31,7 +31,7 @@ Building backend applications, REST APIs, and improving my software engineering 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,git,github,vscode,html"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,git,github,vscode,html, cssss"/>
 
 </p>
 
